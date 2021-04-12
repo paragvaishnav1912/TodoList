@@ -5,7 +5,7 @@
 
 * Java Servlets
 * Java Server Pages(JSPs)
-* Java Database Conectivity
+* Java Database Connectivity
 * Css 
 * Html
 
