@@ -1,5 +1,5 @@
 # This is the Todolist 
-* The Todolist is used for creating list of your work which is want to finished after or in future
+* The Todolist is used for creating list of your work which is to be finished after or in future
 
 ## Built With
 
